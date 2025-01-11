@@ -1,0 +1,17 @@
+{
+    "name": "Winspear22/paquet-php42",
+    "description": "Un paquet personnalisé pour installer toutes les dépendances Symfony nécessaires",
+    "type": "metapackage",
+    "require": {
+        "doctrine/annotations": "^2.0",
+        "doctrine/dbal": "^4.2",
+        "doctrine/doctrine-bundle": "^2.13",
+        "doctrine/doctrine-migrations-bundle": "^3.3",
+        "doctrine/orm": "^3.3",
+        "symfony/form": "6.4.*",
+        "symfony/twig-bundle": "6.4.*",
+        "symfony/validator": "6.4.*",
+        "twig/extra-bundle": "^2.12|^3.0",
+        "twig/twig": "^2.12|^3.0"
+    }
+}
