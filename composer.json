@@ -1,5 +1,5 @@
 {
-    "name": "Winspear22/paquet-php42",
+    "name": "winspear22/paquet-php42",
     "description": "Un paquet personnalisé pour installer toutes les dépendances Symfony nécessaires",
     "type": "metapackage",
     "minimum-stability": "dev",
