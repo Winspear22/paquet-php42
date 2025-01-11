@@ -2,6 +2,8 @@
     "name": "Winspear22/paquet-php42",
     "description": "Un paquet personnalisé pour installer toutes les dépendances Symfony nécessaires",
     "type": "metapackage",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "require": {
         "doctrine/annotations": "^2.0",
         "doctrine/dbal": "^4.2",
