@@ -15,5 +15,11 @@
         "symfony/validator": "6.4.*",
         "twig/extra-bundle": "^2.12|^3.0",
         "twig/twig": "^2.12|^3.0"
+    },
+    "repositories": {
+        "paquet-php42": {
+            "type": "vcs",
+            "url": "https://github.com/Winspear22/paquet-php42"
+        }
     }
 }
